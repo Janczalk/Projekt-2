@@ -1,0 +1,7 @@
+C:\Users\jancz\Desktop\Algorytmy tak o\Projekt\Projekt_2\Projekt_2\bin\Debug\Projekt_2.exe.config
+C:\Users\jancz\Desktop\Algorytmy tak o\Projekt\Projekt_2\Projekt_2\bin\Debug\Projekt_2.exe
+C:\Users\jancz\Desktop\Algorytmy tak o\Projekt\Projekt_2\Projekt_2\bin\Debug\Projekt_2.pdb
+C:\Users\jancz\Desktop\Algorytmy tak o\Projekt\Projekt_2\Projekt_2\obj\Debug\Projekt_2.csprojAssemblyReference.cache
+C:\Users\jancz\Desktop\Algorytmy tak o\Projekt\Projekt_2\Projekt_2\obj\Debug\Projekt_2.csproj.CoreCompileInputs.cache
+C:\Users\jancz\Desktop\Algorytmy tak o\Projekt\Projekt_2\Projekt_2\obj\Debug\Projekt_2.exe
+C:\Users\jancz\Desktop\Algorytmy tak o\Projekt\Projekt_2\Projekt_2\obj\Debug\Projekt_2.pdb
